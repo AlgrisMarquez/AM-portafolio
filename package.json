@@ -1,8 +1,8 @@
 {
-  "name": "am-portfolio",
+  "name": "am-portafolio",
   "version": "1.0.0",
   "description": "AMPortfoolio",
-  "main": "src/index.html",
+  "main": "index.html",
   "keywords": [
     "javascript",
     "firebase",
@@ -34,5 +34,3 @@
     "stylelint-config-recommended": "^2.2.0"
   }
 }
-
-
