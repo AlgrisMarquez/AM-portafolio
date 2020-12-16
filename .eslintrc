@@ -1,0 +1,31 @@
+{
+    "env": {
+      "navegador": verdadero,
+      "es6": verdadero,
+      "jest / globals": verdadero
+    },
+    "extiende": [
+      "base de airbnb"
+    ],
+    "globales": {
+      "Atomics": "solo lectura",
+      "SharedArrayBuffer": "solo lectura",
+      "firebase": "solo lectura"
+    },
+    "complementos": ["broma"],
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "módulo"
+    },
+    "reglas": {
+      "estilo de salto de línea": 0,
+      "prefiero-desestructurar": 0,
+      "importación / extensiones": 0,
+      "importar / preferir-predeterminado-exportar": 0,
+      "jest / no-disabled-tests": "advertir",
+      "jest / no-focus-tests": "error",
+      "broma / no-título-idéntico": "error",
+      "jest / prefer-to-have-length": "advertir",
+      "broma / valida-espera": "error"
+    }
+  }
