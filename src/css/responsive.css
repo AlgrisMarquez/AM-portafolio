@@ -58,6 +58,14 @@
     main .projects {
         margin-bottom: 80px;
     }
+    .project-description h2{
+        font-size: 1em;
+        font-weight: 700;
+    }
+
+    .project-description p{
+        font-size: .9em;
+    }
     
     main .skills .skill{
         width: 30%;
@@ -67,6 +75,6 @@
         height: 60%;
     }
     footer .contact h2{
-        font-size: 1.5em;
+        font-size: 1em;
     }
 }
