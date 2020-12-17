@@ -17,6 +17,11 @@
     main .about-me .media img{
         width: 30%;
     }
+    
+    main .skill img{
+        width: 150%;
+        height: 80%;
+    }
 
     .project-description div p{
         display: block;
