@@ -9,10 +9,6 @@
         width: 100%;
     }
 
-    header .valor{
-        font-size: 1em;
-    }
-
     main .about-me .media{
         width: 90%;
         justify-content: center;
@@ -65,6 +61,13 @@
         font-size: 1em;
         font-weight: 700;
     }
+    /*.project-description p{
+        font-weight: 300;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        line-height: 1.5em;
+    }*/
 
     .project-description p{
         font-size: .85em;

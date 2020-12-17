@@ -72,9 +72,7 @@ main{
     margin-top: -80px
 }
 /* ===ABOUT ME */
-.section {
-    display: block;
-}
+
 main .about-me{
     font-family: 'Montserrat', sans-serif;
     width: 100%;
@@ -90,7 +88,7 @@ main .about-me{
 main .about-me article{
     font-family: 'Montserrat', sans-serif;
     width: 90%;
-    /*max-width: 1000px;*/
+    max-width: 1000px;
     margin: auto;
     line-height: 35px;
     margin-bottom: 40px;
@@ -144,11 +142,7 @@ main .projects .project-description{
     }
 
     .project-description p{
-        /*font-weight: 300;*/
-        display: block;
-        margin-block-start: 1em;
-        margin-block-end: 1em;
-        line-height: 1.5em;
+        font-weight: 300;
     }
 
     .project-description div{
@@ -197,9 +191,9 @@ main .skills .title{
     }
     .skill img{
         width: 150px;
-        height: 150px;
+        /*height: 150px;*/
         margin: auto;
-        padding: 20px;
+        /*padding: 20px;*/
         margin-bottom: 30px;
     }
     .skill p{
