@@ -182,7 +182,7 @@ main .skills .title{
     .skill{
         width: 25%;
         text-align: center;
-        margin: 0 10px ;
+        /*margin: 0 10px ;*/
         margin-bottom: 50px;
         padding: 20px;
         display: flex;
@@ -190,10 +190,10 @@ main .skills .title{
         justify-content: space-between;
     }
     .skill img{
-        width: 150px;
-        /*height: 150px;*/
-        margin: auto;
-        /*padding: 20px;*/
+        /*width: 70px;*/
+        height: 150px;
+        margin: auto auto 30px;
+        padding: 20px;
         margin-bottom: 30px;
     }
     .skill p{
